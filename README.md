@@ -1,1 +1,1 @@
-My first official git repository
+My first git repository
